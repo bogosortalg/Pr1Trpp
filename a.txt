@@ -1,1 +1,1 @@
-Some text in file a.txt
+Some text in file a.txt! Updated in branch dev!
